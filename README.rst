@@ -5,7 +5,7 @@ macOS Messages is an open source tool built to help macOS users manipulate
 chat archives (.ichat files) managed by the Messages (previously iChat)
 application.
 
-With the command-line interface, anyone can merge chats from a backup into the
+With the command-line interface, anyone can merge chats from a backup into 
 the main archive. The commands and user experience are modeled after diff and
 merge tools commonly used in software development.
 
